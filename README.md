@@ -1,6 +1,5 @@
 # Down-The-Drains
 My first game developed with python and pygame. All visual material drawn by me using pixel art. 
-Probando
 
 You can download the game as a .exe using the next link:
 
